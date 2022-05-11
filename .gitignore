@@ -1,0 +1,7 @@
+allure-report/
+allure-report/*/**
+allure-results/
+allure-results/*/**
+.idea/
+.idea/*/**
+
